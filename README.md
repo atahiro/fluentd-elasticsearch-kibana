@@ -1,3 +1,3 @@
 # fluentd-elasticsearch-kibana
 
-FluentdでとElasticsearchとKibanaのdocker環境です。
+FluentdとElasticsearchとKibanaのdocker環境です。
